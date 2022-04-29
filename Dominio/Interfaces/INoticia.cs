@@ -8,6 +8,6 @@ namespace Dominio.Interfaces
 {
     public interface INoticia
     {
-
+        //teste
     }
 }
