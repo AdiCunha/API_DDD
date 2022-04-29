@@ -19,8 +19,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\Genericos\" />
-    <Folder Include="Interfaces\InterfaceServicos\" />
+    <Folder Include="Interfaces\Servicos\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj" />
   </ItemGroup>
 
 </Project>
