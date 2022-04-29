@@ -8,7 +8,7 @@ namespace Dominio.Interfaces
 {
     public interface INoticia
     {
-        //teste
+        //testefsdaf
     }
 }
 //teste fdssadf2gdfgds
