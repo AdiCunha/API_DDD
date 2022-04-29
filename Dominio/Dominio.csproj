@@ -18,4 +18,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Interfaces\Genericos\" />
+    <Folder Include="Interfaces\InterfaceServicos\" />
+  </ItemGroup>
+
 </Project>
